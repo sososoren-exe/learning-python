@@ -21,9 +21,9 @@ Learning Python for freelance work and cybersecurity/systems programming.
 - APIs
 
 ## Projects
-- [FizzBuzz](week1/fizzbuzz.py) - Classic programming challenge
-- [Grade Calculator](week1/grade_calculator.py) - Letter grades from scores
-- [Password Checker](week1/password_checker.py) - Validate password strength
+- [FizzBuzz](week1/Mini_Project__FizzBuzz.py) - Classic programming challenge
+- [Grade Calculator] - Letter grades from scores
+- [Password Checker] - Validate password strength
 
 ## Learning Resources
 - 30-day learning plan
