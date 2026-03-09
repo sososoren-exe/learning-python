@@ -13,7 +13,9 @@ Learning Python for freelance work and cybersecurity/systems programming.
 - If/elif/else statements
 - Loops (for and while)
 - Combining conditionals with loops
-- **Projects:** Password checker, Grade calculator, FizzBuzz
+- **Projects:** FizzBuzz, Grade Tracker
+- ## Upcoming Projects
+- Password Manager, RPG Character Creator
 
 ### Week 2: Coming soon
 - Functions
@@ -21,9 +23,11 @@ Learning Python for freelance work and cybersecurity/systems programming.
 - APIs
 
 ## Projects
+### Week 1:
 - [FizzBuzz](week1/Mini_Project__FizzBuzz.py) - Classic programming challenge
-- [Grade Calculator] - Letter grades from scores
-- [Password Checker] - Validate password strength
+- [Grade Tracker](week1/Mini_Project__Grade_Tracker.py) - Menu-driven student grade management with CRUD operations
+- [Password Manager] - Secure password storage with strength validation
+- [RPG Character Creator] - Character stat management and leveling system
 
 ## Learning Resources
 - 30-day learning plan
