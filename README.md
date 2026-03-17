@@ -8,16 +8,16 @@ Learning Python for freelance work and cybersecurity/systems programming.
 - Ship real projects
 
 ## Progress
-
 ### Week 1: Fundamentals ✅
 - If/elif/else statements
 - Loops (for and while)
-- Combining conditionals with loops
-- Modules (random, getpass, json)
+- Lists and dictionaries
+- Tuples and sets
+- Functions
+- Modules (random, getpass, json, requests, datetime)
 - File I/O and persistence
-- **Projects:** FizzBuzz, Grade Tracker, CLI Password Manager
-- ## Upcoming Projects
-- Weather CLI App, Flashcard App, RPG Character Creator
+- API integration
+- **Projects:** FizzBuzz, Grade Tracker, CLI Password Manager, Weather CLI App
 
 ### Week 2: Coming soon
 - Functions
@@ -29,7 +29,7 @@ Learning Python for freelance work and cybersecurity/systems programming.
 - [FizzBuzz](week1/Mini_Project__FizzBuzz.py) - Classic programming challenge
 - [Grade Tracker](week1/Mini_Project__Grade_Tracker.py) - Menu-driven student grade management with CRUD operations
 - [CLI Password Manager](week1/Mini_Project__Password_Manager.py) - Secure password storage with master password authentication, file persistence, strength validation, and hidden input
-- [RPG Character Creator] - Character stat management and leveling system
+- [Weather CLI App](week1/Mini_Project__Weather_CLI_App.py) - Live weather data with API integration, timezone display, and emoji conditions
 
 ## Learning Resources
 - 30-day learning plan
