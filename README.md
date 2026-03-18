@@ -17,7 +17,7 @@ Learning Python for freelance work and cybersecurity/systems programming.
 - Modules (random, getpass, json, requests, datetime)
 - File I/O and persistence
 - API integration
-- **Projects:** FizzBuzz, Grade Tracker, CLI Password Manager, Weather CLI App
+- **Projects:** FizzBuzz, Grade Tracker, CLI Password Manager, CLI Weather App, CLI Currency Converter 
 
 ### Week 2: Coming soon
 - Functions
@@ -30,6 +30,7 @@ Learning Python for freelance work and cybersecurity/systems programming.
 - [Grade Tracker](week1/Mini_Project__Grade_Tracker.py) - Menu-driven student grade management with CRUD operations
 - [CLI Password Manager](week1/Mini_Project__Password_Manager.py) - Secure password storage with master password authentication, file persistence, strength validation, and hidden input
 - [Weather CLI App](week1/Mini_Project__Weather_CLI_App.py) - Live weather data with API integration, timezone display, and emoji conditions
+- - [CLI Currency Converter](week1/Mini_Project__Currency_Converter.py) - Real-time currency conversion with API integration and error handling
 
 ## Learning Resources
 - 30-day learning plan
@@ -38,5 +39,5 @@ Learning Python for freelance work and cybersecurity/systems programming.
 
 ---
 
-**Current Day:** 4/30  
+**Current Day:** 6/30  
 **Started:** [2026-03-08]
